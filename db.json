@@ -1,0 +1,293 @@
+{
+    "books": [
+        {
+            "title": "Hərb və Sülh",
+            "author": "Lev Tolstoy",
+            "price": 15,
+            "year": 1867,
+            "genre": "Roman",
+            "pages":897,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2021-09-16-14-19-521631787592.jpg"
+        },
+        {
+            "title": "Qürur və Qərəz",
+            "author": "Jane Austen",
+            "price": 19,
+            "year": 1850,
+            "genre": "Roman",
+            "pages":350,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2024-07-17-09-18-361721193516.jpg"
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 40,
+            "year": 1930,
+            "genre": "Roman",
+            "pages":230,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2022-03-26-09-32-261648272746.jpg"
+        },
+        {
+            "title": "Möhtəşəm Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "price": 16,
+            "year": 1975,
+            "genre": "Roman",
+            "pages":97,
+            "cover_image": "https://static.insales-cdn.com/r/bfQd6WGCV_E/rs:fit:570:570:1/q:80/plain/images/products/1/3206/217484422/0000000670736-1.jpg@webp"
+        },
+        {
+            "title": "Cinayət və Cəza",
+            "author": "Fyodor Dostoyevski",
+            "price": 66,
+            "year": 1866,
+            "genre": "Roman",
+            "pages":850,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2024-03-16-11-56-211710575781.jpg"
+        },
+        {
+            "title": "Odyssey",
+            "author": "Homer",
+            "price": 75,
+            "year": 1765,
+            "genre": "Roman",
+            "pages":87,
+            "cover_image": "https://static.insales-cdn.com/r/H6Oyoj37g1Y/rs:fit:570:570:1/q:80/plain/images/products/1/6897/171072241/5be4a4c1a7a3b969744c7452979fbd0c.jpg@webp"
+        },
+        {
+            "title": "Bülbülü Öldürmək",
+            "author": "Harper Lee",
+            "price": 97,
+            "year": 1965,
+            "genre": "Roman",
+            "pages":420,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2022-05-04-15-43-451651664625.jpg"
+        },
+        {
+            "title": "Jane Eyre",
+            "author": "Charlotte Bront\u00eb",
+            "price": 42,
+            "year": 1875,
+            "genre": "Roman",
+            "pages":320,
+            "cover_image": "https://static.insales-cdn.com/r/7aYA-ZRRIWc/rs:fit:570:570:1/q:80/plain/images/products/1/6110/786733022/0001871399001-1.jpg@webp"
+        },
+        {
+            "title": "Karamazov Qardaşları",
+            "author": "Fyodor Dostoyevski",
+            "price": 95,
+            "year": 1880,
+            "genre": "Roman",
+            "pages":987,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2024-09-04-14-38-131725446293.jpg"
+        },
+        {
+            "title": "Böyük Ümidlər",
+            "author": "Charles Dickens",
+            "price": 35,
+            "year": 1855,
+            "genre": "Roman",
+            "pages":397,
+            "cover_image": "https://m.media-amazon.com/images/I/61f8oxmdSWL._SL500_.jpg"
+        },
+        {
+            "title": "İvan İlyiçin ölümü",
+            "author": "Lev Tolstoy",
+            "price": 80,
+            "year": 1886,
+            "genre": "Roman",
+            "pages":97,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2021-09-14-10-40-561631601656.jpg"
+        },
+        {
+            "title": "Anna Karenina",
+            "author": "Lev Tolstoy",
+            "price": 65,
+            "year": 1873,
+            "genre": "Roman",
+            "pages":809,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2024-03-15-16-22-011710505321.jpg"
+        },
+        {
+            "title": "Iliad",
+            "author": "Homer",
+            "price": 87,
+            "year": 1765,
+            "genre": "Roman",
+            "pages":97,
+            "cover_image": "https://static.insales-cdn.com/r/yq3LoTkOq-4/rs:fit:244:244:1/q:80/plain/images/products/1/6868/171072212/large_2c67f74c684cf3cd2bb781de47351334.jpg@webp"
+        },
+        {
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "price": 53,
+            "year": 1885,
+            "genre": "Roman",
+            "pages":87,
+            "cover_image": "https://static.insales-cdn.com/r/1XjE_wF7Bbg/rs:fit:570:570:1/q:80/plain/images/products/1/3953/759852913/0001780367001-1.jpg@webp"
+        },
+        {
+            "title": " Monte Cristo Kontu",
+            "author": "Alexandre Dumas",
+            "price": 33,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":997,
+            "cover_image": "https://static.insales-cdn.com/r/0LmtjdCJj50/rs:fit:570:570:1/q:80/plain/images/products/1/971/526525387/Duma_Qraf_Monte-Kristo_Esas.png@webp"
+        },
+        {
+            "title": "İki şəhərin hekayəsi",
+            "author": "Charles Dickens",
+            "price": 93,
+            "year": 1965,
+            "genre": "Roman",
+            "pages":297,
+            "cover_image": "https://static.insales-cdn.com/r/rgd4gQLZAuA/rs:fit:570:570:1/q:80/plain/images/products/1/2462/212715934/0000000713112-1.jpg@webp"
+        },
+        {
+            "title": "Dorian Grayin Portreti",
+            "author": "Oscar Wilde",
+            "price": 81,
+            "year": 1861,
+            "genre": "Roman",
+            "pages":397,
+            "cover_image": "https://static.insales-cdn.com/r/dHQPGLSsXmI/rs:fit:570:570:1/q:80/plain/images/products/1/5230/861549678/66024821d83190371c85eb307de10c89.png@webp"
+        },
+        {
+            "title": "Çevrilmə",
+            "author": "Franz Kafka",
+            "price": 72,
+            "year": 1861,
+            "genre": "Roman",
+            "pages":61,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2022-02-15-12-01-311644912091.jpg"
+        },
+        {
+            "title": "Siçanlar və Adamlar",
+            "author": "John Steinbeck",
+            "price": 15,
+            "year": 1930,
+            "genre": "Roman",
+            "pages":103,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2024-02-07-10-16-441707286604.jpg"
+        },
+        {
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "price": 32.22,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":597,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2022-12-27-13-08-541672132134.png"
+        },
+        {
+            "title": "Balaca Şəhzadə",
+            "author": "Antoine de Saint-Exup\u00e9ry",
+            "price": 94,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":67,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2024-04-16-15-40-021713267602.jpg"
+        },
+        {
+            "title": "Oliver Twist",
+            "author": "Charles Dickens",
+            "price": 27,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":87,
+            "cover_image": "https://img.kitapyurdu.com/v1/getImage/fn:4638315/wh:true/wi:800"
+        },
+        {
+            "title": "Emma",
+            "author": "Jane Austen",
+            "price": 56,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":497,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2019-11-13-11-18-151573629495.jpg"
+        },
+        {
+            "title": "Balaca Qadınlar",
+            "author": "Louisa May Alcott",
+            "price": 24,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":89,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2021-09-08-11-37-091631086629.jpg"
+        },
+        {
+            "title": "Peter Pan",
+            "author": "J.M. Barrie",
+            "price": 63,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":76,
+            "cover_image": "https://static.insales-cdn.com/r/JR90D57_zEI/rs:fit:570:570:1/q:80/plain/images/products/1/1710/920929966/91wscfVsS5L._SL1500_.jpg@webp"
+        },
+      
+        {
+            "title": "Robinzon Kruzo",
+            "author": "Daniel Defoe",
+            "price": 14,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":87,
+            "cover_image": "https://static.insales-cdn.com/r/UQs6e-4sThE/rs:fit:570:570:1/q:80/plain/images/products/1/1007/385655791/9781509842896.jpg@webp"
+        },
+        {
+            "title": "Qırmızı və Qara",
+            "author": "Stendhal",
+            "price": 50,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":457,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2019-12-03-23-49-381575402578.jpg"
+        },
+        {
+            "title": "Ecinnilər",
+            "author": "Fyodor Dostoyevski",
+            "price": 11,
+            "year": 1872,
+            "genre": "Roman",
+            "pages":837,
+            "cover_image": "https://static.insales-cdn.com/r/OHYAekHPQ-0/rs:fit:570:570:1/q:80/plain/images/products/1/1381/341910885/1585988727.jpg@webp"
+        },
+        {
+            "title": "Idiot",
+            "author": "Fyodor Dostoyevski",
+            "price": 47,
+            "year": 1868,
+            "genre": "Roman",
+            "pages":740,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2021-09-16-16-14-341631794474.jpg"
+        },
+        {
+            "title": "Yeraltından Qeydlər",
+            "author": "Fyodor Dostoyevski",
+            "price": 39,
+            "year": 1864,
+            "genre": "Roman",
+            "pages":89,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2022-11-16-15-24-431668597883.jpg"
+        },
+        {
+            "title": "Gənc Wertherin İzdirabları",
+            "author": "Johann Wolfgang von Goethe",
+            "price": 83,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":89,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2021-09-14-10-51-091631602269.jpg"
+        },
+        {
+            "title": "Şahmat",
+            "author": "Franz Kafka",
+            "price": 51,
+            "year": 1865,
+            "genre": "Roman",
+            "pages":60,
+            "cover_image": "https://www.qanun.az/images/news/compressed/2022-12-27-13-15-501672132550.png"
+        }
+    ]
+}

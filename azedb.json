@@ -1,0 +1,324 @@
+{
+  "azebooks": [
+    {
+      "id": 1,
+      "title": "Ali ve Nino",
+      "author": "Kurban Said",
+      "year": 1937,
+      "pages": 240,
+      "genre": "Roman",
+      "price": 18,
+      "cover_image": "https://static.insales-cdn.com/r/PGjE6Sgz-dI/rs:fit:570:570:1/q:80/plain/images/products/1/4774/171070118/860ce15baaef6db9b2566ad3498c6c7a.jpg@webp"
+    },
+    {
+      "id": 2,
+      "title": "Yadigarlar",
+      "author": "Mikayıl Müşfiq",
+      "year": 1935,
+      "pages": 192,
+      "genre": "Şeir",
+      "price": 12,
+      "cover_image": "https://www.1001kitab.az/product-images/6718ca2503e89.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Araz",
+      "author": "Cəfər Cabbarlı",
+      "year": 1929,
+      "pages": 200,
+      "genre": "Roman",
+      "price": 15,
+      "cover_image": "https://static.insales-cdn.com/r/nTPmDtyUW8s/rs:fit:570:570:1/q:80/plain/images/products/1/4052/171069396/48217b29b5b80b4eb646e138f8dae11f.png@png"
+    },
+    {
+      "id": 4,
+      "title": "Fitnələr Qarşısında",
+      "author": "Üzeyir Hacıbəyov",
+      "year": 1935,
+      "pages": 350,
+      "genre": "Dram",
+      "price": 20,
+      "cover_image": "https://www.qanun.az/images/news/compressed/130x200/2021-08-30-15-32-091630323129.jpg?v=1"
+    },
+    {
+      "id": 5,
+      "title": "Sönməyən Ulduzlar",
+      "author": "İlyas Əfəndiyev",
+      "year": 1960,
+      "pages": 320,
+      "genre": "Roman",
+      "price": 17,
+      "cover_image": "https://novella.az/wp-content/uploads/2020/07/Ilyas-%C6%8Ff%C9%99ndiyev-Secilmis-%C6%8Fs%C9%99rl%C9%99ri.png"
+    },
+    {
+      "id": 6,
+      "title": "Ana",
+      "author": "Səməd Vurğun",
+      "year": 1934,
+      "pages": 270,
+      "genre": "Poem",
+      "price": 14,
+      "cover_image": "https://static.insales-cdn.com/images/products/1/2909/633916253/VURGUN_SECME_SHEIRLER_sert_qapaq__.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ölülər",
+      "author": "Cəlil Məmmədquluzadə",
+      "year": 1909,
+      "pages": 400,
+      "genre": "Roman",
+      "price": 25,
+      "cover_image": "https://static.insales-cdn.com/images/products/1/1523/219276787/Celil_Memmedquluzade_Oluler_Esas.png"
+    },
+    {
+      "id": 8,
+      "title": "Söyüdlü Arx",
+      "author": "İlyas Əfəndiyev",
+      "year": 1960,
+      "pages": 480,
+      "genre": "Roman",
+      "price": 28,
+      "cover_image": "https://www.qanun.az/images/news/compressed/2024-04-06-14-53-551712400835.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Günəşin Doğduğu Yer",
+      "author": "Əli Kərim",
+      "year": 1947,
+      "pages": 360,
+      "genre": "Şeir",
+      "price": 15,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/az/thumb/1/13/%C6%8Fli_K%C9%99rim.jpg/300px-%C6%8Fli_K%C9%99rim.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Leyli və Məcnun",
+      "author": "Füzuli",
+      "year": 1538,
+      "pages": 180,
+      "genre": "Poem",
+      "price": 13,
+      "cover_image": "https://upload.wikimedia.org/wikipedia/az/3/3d/F%C3%BCzuli_Leyli_v%C9%99_M%C9%99cnun.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Gözəl Bahar",
+      "author": "Abdulla Şaiq",
+      "year": 1921,
+      "pages": 220,
+      "genre": "Şeir",
+      "price": 10,
+      "cover_image": "https://static.insales-cdn.com/images/products/1/6958/342399790/gozel_bahar-600x695.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Qarabağnamə",
+      "author": "Mirzə Adıgözəl Bəy",
+      "year": 1845,
+      "pages": 310,
+      "genre": "Tarix",
+      "price": 18,
+      "cover_image": "https://static.insales-cdn.com/images/products/1/179/414073011/Mirze_Camal_Qarabag_Tarixi_Esas.png"
+    },
+    {
+      "id": 13,
+      "title": "İblis",
+      "author": "Hüseyn Cavid",
+      "year": 1918,
+      "pages": 150,
+      "genre": "Dram",
+      "price": 12,
+      "cover_image": "https://static.insales-cdn.com/images/products/1/6931/232086291/Huseyn_Cavid_Iblis_Esas.png"
+    },
+    {
+      "id": 14,
+      "title": "Səhər",
+      "author": "Rəsul Rza",
+      "year": 1944,
+      "pages": 290,
+      "genre": "Şeir",
+      "price": 14,
+      "cover_image": "https://gencexeber.az/wp-content/uploads/2022/04/aaa4.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Kölgələr",
+      "author": "Ənvər Məmmədxanlı",
+      "year": 1947,
+      "pages": 340,
+      "genre": "Roman",
+      "price": 19,
+      "cover_image": "https://achiqkitab.aztc.gov.az/az/image/envermemmedxanli-5596d9ad1c822.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Fırtına",
+      "author": "Süleyman Rüstəm",
+      "year": 1938,
+      "pages": 260,
+      "genre": "Şeir",
+      "price": 11,
+      "cover_image": "https://achiqkitab.aztc.gov.az/az/image/suleymanrustem-5597dc231afab.png"
+    },
+    {
+      "id": 17,
+      "title": "Yay Səhəri",
+      "author": "Abbas Səhhət",
+      "year": 1900,
+      "pages": 230,
+      "genre": "Şeir",
+      "price": 10,
+      "cover_image": "https://static.insales-cdn.com/r/t8IvsCchGXU/rs:fit:570:570:1/q:80/plain/images/products/1/5204/461648980/Cover_Abbas-Sehhet.jpg@jpg"
+    },
+    {
+      "id": 18,
+      "title": "Dəli Kür",
+      "author": "İsmayıl Şıxlı",
+      "year": 1968,
+      "pages": 400,
+      "genre": "Roman",
+      "price": 22,
+      "cover_image": "https://static.insales-cdn.com/r/tHDX30-6v4M/rs:fit:570:570:1/q:80/plain/images/products/1/1364/221611348/D%C9%99li-K%C3%BCr.jpg@jpg"
+    },
+    {
+      "id": 19,
+      "title": "Həyat Nəğmələri",
+      "author": "Cəfər Cabbarlı",
+      "year": 1925,
+      "pages": 250,
+      "genre": "Dram",
+      "price": 16,
+      "cover_image": "https://novella.az/wp-content/uploads/2021/10/C%C9%99f%C9%99r-Cabbarli-Secilmis-%C6%8Fs%C9%99rl%C9%99ri.-M%C9%99n-bir-susmaz-duyguyam-ki....jpg"
+    },
+    {
+      "id": 20,
+      "title": "Kitabi-Dədə Qorqud",
+      "author": "Anonim",
+      "year": 1300,
+      "pages": 420,
+      "genre": "Epik",
+      "price": 30,
+      "cover_image": "https://altunkitab.az/storage/347/conversions/dede_qorqud2018-blade.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Sirlər Xəzinəsi",
+      "author": "Nizami Gəncəvi",
+      "year": 1173,
+      "pages": 320,
+      "genre": "Poem",
+      "price": 22,
+      "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4UD3chWWzWCneMiYHEsVh6PfVYRUhvdiwQ&s"
+    },
+    {
+      "id": 22,
+      "title": "Xosrov və Şirin",
+      "author": "Nizami Gəncəvi",
+      "year": 1600,
+      "pages": 280,
+      "genre": "Folklor",
+      "price": 18,
+      "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREc9WjECWzh1Sdi7VTz93BplT6mpA_Z3rlw&s"
+    },
+    {
+      "id": 23,
+      "title": "İki Rəssam",
+      "author": "Nizami Gəncəvi",
+      "year": 1180,
+      "pages": 370,
+      "genre": "Poem",
+      "price": 21,
+      "cover_image": "https://kitabevim.az/wp-content/uploads/2022/11/photo_2022-11-08_22-59-58-5.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Bomba",
+      "author": "Əbdürrəhim bəy Haqverdiyev",
+      "year": 1923,
+      "pages": 280,
+      "genre": "Dram",
+      "price": 17,
+      "cover_image": "https://www.3alma.az/storage/187/conversions/bomba-front-book.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Tamahkar",
+      "author": "Nəriman Nərimanov",
+      "year": 1920,
+      "pages": 260,
+      "genre": "Roman",
+      "price": 19,
+      "cover_image": "https://bakubookcenter.az/get-product-image?fileId=50112"
+    },
+    {
+      "id": 26,
+      "title": "Qaraca Qız",
+      "author": "Süleyman Sani Axundov",
+      "year": 1837,
+      "pages": 220,
+      "genre": "Folklor",
+      "price": 15,
+      "cover_image": "https://www.3alma.az/storage/251/conversions/qaraca-qiz-front-book.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Seçilmiş Əsərlər",
+      "author": "Abbasqulu Ağa Bakıxanov",
+      "year": 1930,
+      "pages": 300,
+      "genre": "Roman",
+      "price": 14,
+      "cover_image": "https://ebooks.az/image/cover/OqM3nAPS"
+    },
+    {
+      "id": 28,
+      "title": "Seçilmiş Şeirlər",
+      "author": "Bəxtiyar Vahabzadə",
+      "year": 1975,
+      "pages": 450,
+      "genre": "Şeir",
+      "price": 25,
+      "cover_image": "https://lh3.googleusercontent.com/proxy/25f7yhV1KSSII0Xv8HcXV9TmPRq5Y21e6ZpooVuBB9t16QDLmQRhhlvMaAxLvdBWxVQSDaunocFHeD_df1Usc0uyoVKueZP0iKQFQkndVPAjR9A"
+    },
+    {
+      "id": 29,
+      "title": "Od Gölü",
+      "author": "Yusif Vəzir Çəmənzəminli",
+      "year": 1936,
+      "pages": 310,
+      "genre": "Roman",
+      "price": 23,
+      "cover_image": "https://achiqkitab.aztc.gov.az/az/image/chemenzeminli-55965dec776a4.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Molla Nəsrəddin",
+      "author": "Cəlil Məmmədquluzadə",
+      "year": 1906,
+      "pages": 190,
+      "genre": "Hekayə",
+      "price": 13,
+      "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ88xsug2MVrVpRfh1MB8FV1C2RTFCSwlVwA&s"
+    },
+    {
+      "id": 31,
+      "title": "Xəmsə",
+      "author": "Nizami Gəncəvi",
+      "year": 1200,
+      "pages": 480,
+      "genre": "Poem",
+      "price": 35,
+      "cover_image": "https://www.teaspress.az/storage/2307/conversions/xemse-front-book.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Qanlı Göl",
+      "author": "Əhməd Cavad",
+      "year": 1930,
+      "pages": 340,
+      "genre": "Roman",
+      "price": 20,
+      "cover_image": "https://static.insales-cdn.com/images/products/1/1022/649430014/AHMED_CAVAD_secme_sheirler_qapaq3.jpg"
+    }
+  ]
+}
